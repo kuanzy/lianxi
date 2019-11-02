@@ -3,4 +3,4 @@ y = int(input())
 try:
     print(x/y)
 except ZeroDivisionError:
-    print('不能除以0'
+    print('不能除以0')
